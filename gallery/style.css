@@ -1,0 +1,82 @@
+body {
+  font-family: Helvetica;
+}
+
+.main-title {
+  font-size: 2.5em;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 1.8em;
+  margin-top: 10px;
+  max-width: 250px;
+}
+
+.category {
+  text-transform: uppercase;
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+.sub-title {
+  margin-top: 5px;
+  margin-bottom: 30px;
+  width: 50%;
+  font-size: 14px;
+  line-height: 18px;
+  color: #4f4f4f;
+  font-weight: lighter;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.content {
+  /* Grid container */
+}
+
+.box {
+  background-color: grey;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  position: relative;
+  box-shadow: 3px 3px 15px 0px rgba(73, 34, 2, 0.2);
+}
+
+.box1 {
+  background-size: cover;
+  background-position: 41% 0;
+  background-image: url("https://assets.codepen.io/406785/tina-guina-obV_LM0KjxY-unsplash.jpg");
+}
+
+.box2 {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://assets.codepen.io/406785/alexander-mils-ocku3zjNM7k-unsplash.jpg");
+}
+
+.box3 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://assets.codepen.io/406785/annie-spratt-n3T1gBYgkJo-unsplash.jpg");
+}
+
+.box4 {
+  background-size: cover;
+  background-image: url("https://assets.codepen.io/406785/bart-zimny-W5XTTLpk1-I-unsplash.jpg");
+}
+
+.box5 {
+  background-size: cover;
+  background-image: url("https://assets.codepen.io/406785/david-brooke-martin-FD9jL29KD5E-unsplash.jpg");
+}
+
+.box6 {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://assets.codepen.io/406785/benigno-hoyuela-vCLp1eZGNg4-unsplash.jpg");
+}
